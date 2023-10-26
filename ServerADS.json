@@ -1,55 +1,8 @@
 {
-   "channel_count":5,
-   "channels":[
-      {
-         "channel_name":"✺ FR - GENERALE FHD ✺",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/flag_france.png",
-         "channel_stream":[
-            {
-               "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2586"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TF1 FHD ⊚",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",
-         "channel_stream":[
-            {
-               "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/2587"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TF1 PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tf1-plus-1(1).png",
-         "channel_stream":[
-            {
-               "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75432"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR ⋆ TMC PLUS 1 FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-plus.png",
-         "channel_stream":[
-            {
-               "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/75433"
-            }
-         ]
-      },
-      {
-         "channel_name":"FR - ANTENNE REUNION FHD",
-         "channel_logo":"http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/antenne.png",
-         "channel_stream":[
-            {
-               "video_quality":"1080p",
-               "stream_link":"http://carrefourt.co.uk:80/D12B81H45A68P4/GKEH3BA0YQIX0NIR/413105"
-            }
-         ]
-      }
-   ]
+   "onOff":"true",
+   "ApploviInter":"4127f3adf1f1a2e4",
+   "ApplovinMrec":"4031d3d61c6bc9e8",
+   "ApploviBanner":"f3f6bac465a25ff0",
+   "ChooseAdNetwork":"applovin",
+   "Switch":"review"
 }
